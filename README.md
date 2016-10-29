@@ -1,4 +1,4 @@
-# IoT for the Software Developer Prese
+# IoT for the Software Developer Presentation
 This repo contains the demo code and slides for my "IoT for the Software Developer" talk.
 
 [Raleigh Code Camp 2016](http://codecamp.org/s/2016/8214) - October 29, 2016
