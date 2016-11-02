@@ -19,6 +19,13 @@ You've probably heard the buzz surrounding the Internet of Things (IoT). Want to
 [Seeed Studio Grove System](http://wiki.seeedstudio.com/wiki/GROVE_System)  
 [Weather Station](https://www.hackster.io/windows-iot/weather-station-67e40d)
 
+### Software
+[Visual Studio 2015](https://www.visualstudio.com/vs/)  
+[Particle Web IDE](https://www.particle.io/products/development-tools/particle-web-ide)  
+[Intel XDK](https://software.intel.com/en-us/intel-xdk)  
+[Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  
+[Azure Functions](https://azure.microsoft.com/en-us/services/functions/)  
+
 ### Starter Kits
 [Grove Starter Kit for IoT based on Raspberry Pi](https://www.seeedstudio.com/Microsoft-IoT-Grove-Kit-p-2694.html)  
 [Microsoft IoT Pack for Raspberry Pi 3](https://www.adafruit.com/products/2733)  
